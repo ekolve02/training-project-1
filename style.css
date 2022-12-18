@@ -1,0 +1,10 @@
+body {
+    margin: 0;
+}
+.first-block {
+    background-color: #EBEBEB;
+}
+
+.first-block__container {
+    width: 80%;
+}
