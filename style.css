@@ -1,6 +1,15 @@
 body {
     margin: 0;
 }
+/*--------header----------*/
+header {
+ height: 70px;
+ width: 100%;
+ background-color: black;
+}
+/*--------end-header----------*/
+
+
 .first-block {
     background-color: #EBEBEB;
 }
